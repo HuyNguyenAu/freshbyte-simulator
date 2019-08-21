@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Huygen\\Desktop\\simulated-device\\simulated-device.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Huygen\\Desktop\\simulated-device\\simulated-device.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Huygen\\Desktop\\simulated-device\\simulated-device.csproj",
+        "projectName": "simulated-device",
+        "projectPath": "C:\\Users\\Huygen\\Desktop\\simulated-device\\simulated-device.csproj",
+        "packagesPath": "C:\\Users\\Huygen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Huygen\\Desktop\\simulated-device\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Huygen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

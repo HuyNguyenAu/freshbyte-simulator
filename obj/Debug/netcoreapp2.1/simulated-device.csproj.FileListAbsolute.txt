@@ -1,0 +1,11 @@
+C:\Users\Huygen\Desktop\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\Huygen\Desktop\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\Huygen\Desktop\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\Huygen\Desktop\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\Huygen\Desktop\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\Huygen\Desktop\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\Huygen\Desktop\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\Huygen\Desktop\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\Huygen\Desktop\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\Huygen\Desktop\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\Huygen\Desktop\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
